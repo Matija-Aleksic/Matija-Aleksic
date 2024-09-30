@@ -1,21 +1,12 @@
-<h2 align="left">I'm a student at TVZ with a deep passion for technology and programming. Over the years, I've explored a wide range of tech fields, from hands-on PC repair to software development and Linux system administration. This diverse experience has given me a strong foundation in problem-solving and adaptability across multiple platforms.</h2>
+<h2 align="left">About Me</h2>
+
+<p align="left">I'm a student at TVZ with a deep passion for technology and programming. Over the years, I've explored a wide range of tech fields, from hands-on PC repair to software development and Linux system administration. This diverse experience has given me a strong foundation in problem-solving and adaptability across multiple platforms.</p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matija-Aleksic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matija-Aleksic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+<h2 align="left">Languages</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Matija-Aleksic/count.svg?"  />
-</div>
-
-###
-
-<p align="left">Languages</p>
 
 ###
 
@@ -43,7 +34,7 @@
 
 ###
 
-<p align="left">Frameworks & Libraries</p>
+<h2 align="left">Frameworks & Libraries</h2>
 
 ###
 
@@ -59,7 +50,7 @@
 
 ###
 
-<p align="left">Tools & Technologies</p>
+<h2 align="left">Tools & Technologies</h2>
 
 ###
 
@@ -99,17 +90,27 @@
 
 ###
 
-<p align="left">Contact</p>
+
+<h2 align="left">Contact</h2>
+
+
+<a href="mailto:matijaaleksic22@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
+<a href="https://www.linkedin.com/in/matija-aleksic-9bb252265/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
+
+
 
 ###
+<h2 align="left">Stats</h2>
 
-<div align="left">
-  <a href="matijaaleksic22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/matija-aleksic-9bb252265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matija-Aleksic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="width: 40%; height: auto; box-sizing: border-box;" alt="languages graph" />
+
 </div>
+
 
 ###
