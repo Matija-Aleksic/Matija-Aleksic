@@ -1,116 +1,66 @@
-<h2 align="left">About Me</h2>
+<h1 align="center">Hi, I'm Matija 👋</h1>
 
-<p align="left">I'm a student at TVZ with a deep passion for technology and programming. Over the years, I've explored a wide range of tech fields, from hands-on PC repair to software development and Linux system administration. This diverse experience has given me a strong foundation in problem-solving and adaptability across multiple platforms.</p>
+<p align="center">
+  <strong>Backend Developer · Linux Enthusiast · IT Technician</strong><br/>
+  Student at TVZ with a passion for building reliable systems, solving technical problems, and learning how things work under the hood.
+</p>
 
-###
+---
 
+## About Me
 
-<h2 align="left">Languages</h2>
+I'm deeply interested in **backend development**, **Linux system administration**, and **infrastructure automation**.  
+Over the years, I’ve worked on:
 
+- 🖥️ PC repair, diagnostics & hardware troubleshooting  
+- ⚙️ Linux server administration (Arch, Debian, Proxmox)  
+- 🧰 Media server stacks (Docker, Arr suite, Tautulli, Nginx, Samba)  
+- 🏗️ Backend development in **Java, C#, and C++**  
+- 🗄️ Database design & optimization (MySQL)  
+- 🔧 Helping others solve tech problems (support for family, friends, students)
 
-###
+My goal is to grow as a backend developer while staying close to systems, networks, and automation.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+---
+
+## 🧠 Tech Stack
+
+### **Languages**
+<div>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,php,bash,html,css" />
 </div>
 
-###
-
-<h2 align="left">Frameworks & Libraries</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+### **Frameworks & Libraries**
+<div>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,bootstrap" />
 </div>
 
-###
-
-<h2 align="left">Tools & Technologies</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
+### **Tools & Technologies**
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,nginx,apache,grafana,prometheus,postman,vscode,idea" />
 </div>
 
-###
+---
 
+## 📊 GitHub Stats
 
-<h2 align="left">Contact</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matija-Aleksic&layout=compact&theme=dracula&hide_border=true" height="160"/>
+</div>
 
+---
 
-<a href="mailto:matijaaleksic22@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+## 📫 Contact
+
+<a href="mailto:matijaaleksic22@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/matija-aleksic-9bb252265/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<a href="https://www.linkedin.com/in/matija-aleksic-9bb252265/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+---
 
-
-###
-<h2 align="left">Stats</h2>
-
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matija-Aleksic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="width: 40%; height: auto; box-sizing: border-box;" alt="languages graph" />
-
-</div>
-
-
-###
+<p align="center">
+  ⭐ <i>If you like something here, feel free to star a repo or reach out!</i> ⭐
+</p>
